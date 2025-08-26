@@ -28,7 +28,7 @@ When you have install all the dependencies, build the app with the following com
 ```bash
 pyinstaller cryptApp.spec
 ```
-After building the app, add `lock.ico` and `lock.png` in the CrypFile folder that will be create
+After building the app, add `lock.ico` and `lock.png` in the CrypFile folder 
 
 ---
 
