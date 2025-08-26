@@ -1,4 +1,4 @@
-; cryptApp.iss - Script Inno Setup pour créer un installateur
+
 #define MyAppName "CryptFile"
 #define MyAppPublisher "ttl77998-pixel"
 #define MyAppURL "https://github.com/ttl77998-pixel/legendary-enigma"
@@ -56,6 +56,7 @@ Name: "swedish"; MessagesFile: "compiler:Languages\Swedish.isl"
 Name: "tamil"; MessagesFile: "compiler:Languages\Tamil.isl"
 Name: "turkish"; MessagesFile: "compiler:Languages\Turkish.isl"
 Name: "ukrainian"; MessagesFile: "compiler:Languages\Ukrainian.isl"
+
 
 
 [Files]
