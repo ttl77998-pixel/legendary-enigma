@@ -236,7 +236,7 @@ class CryptoApp:
             return
         password = self.entry_password.get()
         if not password:
-            messagebox.showwarning("Error", "The password required !")
+            messagebox.showwarning("Error", "The password is required !")
             self.is_processing = False
             return
 
@@ -274,7 +274,7 @@ class CryptoApp:
             return
         password = self.entry_password.get()
         if not password:
-            messagebox.showwarning("Error", " The password required !")
+            messagebox.showwarning("Error", " The password is required !")
             self.is_processing = False
             return
 
@@ -352,3 +352,4 @@ if __name__ == "__main__":
     show_splash_screen()
     app = CryptoApp()
     app.root.mainloop()
+
