@@ -33,5 +33,5 @@ After building the app, add `lock.ico` and `lock.png` in the CrypFile folder tha
 ---
 
 ## 🧑‍💻 Author 
-- **Developed by**: ttl77998
+- **Developed by**: UnknowCoder
 -  **Version**: 1.8
